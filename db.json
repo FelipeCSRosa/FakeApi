@@ -1,11 +1,14 @@
 {
-  "posts": [
+  "planos": [
     {
       "id": 1,
-      "title": "hello"
+      "nome": "4 MEGA",
+      "preco": "R$ 79,90"
+    },
+    {
+      "id": 2,
+      "nome": "8 MEGA",
+      "preco": "R$ 100,90"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
