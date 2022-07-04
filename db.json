@@ -38,6 +38,11 @@
       "id": 6,
       "nome": "Ultimate HD",
       "preco": 69.90
+    },
+    {
+      "id": 8,
+      "nome": "Ultimate HD do SID",
+      "preco": 132.50
     }
   ]
 }
