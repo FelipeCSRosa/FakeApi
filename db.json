@@ -21,11 +21,6 @@
       "id": 4,
       "nome": "Ilimitado Fixo Brasil",
       "preco": 39.90
-    },
-    {
-      "id": 7,
-      "nome": "Ilimitado Do Allan",
-      "preco": 200.00
     }    
   ],
   "TV": [
@@ -38,11 +33,6 @@
       "id": 6,
       "nome": "Ultimate HD",
       "preco": 69.90
-    },
-    {
-      "id": 8,
-      "nome": "Ultimate HD do SID",
-      "preco": 132.50
     }
   ]
 }
